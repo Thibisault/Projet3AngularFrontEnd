@@ -6,7 +6,7 @@ CREATE TABLE `USERS` (
   `created_at` timestamp,
   `updated_at` timestamp
 );
-
+s
 CREATE TABLE `RENTALS` (
   `id` integer PRIMARY KEY AUTO_INCREMENT,
   `name` varchar(255),
